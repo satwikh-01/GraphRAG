@@ -19,9 +19,6 @@ Graphy v1 allows users to upload a PDF document, which is then processed to extr
 - **Extensible**: Designed to support multiple documents and more conversational interactions in future versions.
 
 
-
-*Click the image above to watch the demo video on YouTube.*
-
 ## Getting Started
 
 ### Prerequisites
